@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "user": [
+    { "id": 1, "name": "Nguyễn Thị Roses", "sex": 1,"email":"rosenguyen@gmail.com","phoneNumber":"0123456789","birthday":"10/1/1990" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
