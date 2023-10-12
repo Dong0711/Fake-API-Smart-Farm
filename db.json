@@ -1,6 +1,6 @@
 {
   "user": 
-    { "id": 1, "name": "Nguyễn Thị Roses", "sex": 1,"email":"rosenguyen@gmail.com","phoneNumber":"0123456789","birthday":"10/1/1990" }
+    { "id": 1, "name": "Nguyễn Thị Roses", "sex": 1,"email":"rosenguyen@gmail.com","phoneNumber":"0123456789","birthday":"10/1/1990","imgLink":"https://www.facebook.com/photo/?fbid=439426977545119&set=a.439426967545120" }
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
