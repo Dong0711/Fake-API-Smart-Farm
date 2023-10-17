@@ -1,6 +1,6 @@
 {
   "user": 
-    { "id": 1, "name": "Nguyễn Thị Roses", "sex": 1,"email":"rosenguyen@gmail.com","phoneNumber":"0123456789","birthday":"10/1/1990","imgLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNh2kOz0Eya2FqnnalLUb2fA67f6aKu2sM4yBGE49RgpSFwUSw" }
+    { "id": 1, "name": "Nguyễn Thị Roses", "sex": 0,"email":"rosenguyen@gmail.com","phoneNumber":"0123456789","birthday":"10/1/1990","imgLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNh2kOz0Eya2FqnnalLUb2fA67f6aKu2sM4yBGE49RgpSFwUSw" }
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
