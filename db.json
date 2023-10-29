@@ -10,9 +10,9 @@
     {"id":1,
    "name":"farm 1",
   "camera": [
-    {"name": "Camera 1", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"},
-    {"name": "Camera 2", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
-    {"name": "Camera 3", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"}
+    {"name": "Camera 1", "link": "rtsp://zephyr.rtsp.stream/pattern?streamKey=bde760b17ab39993b484a9c6628db464"},
+    {"name": "Camera 2", "link": "rtsp://zephyr.rtsp.stream/movie?streamKey=eb98bd01bc2a2c3207be4b6b1208014b"},
+    {"name": "Camera 3", "link": "rtsp://zephyr.rtsp.stream/pattern?streamKey=bde760b17ab39993b484a9c6628db464"}
  
   ] 
 }
