@@ -7,8 +7,7 @@
   ],
   "profile": { "name": "typicode" },
   "farm":
-  [
-   {"id":1,
+    {"id":1,
    "name":"farm 1",
   "camera": [
     {"name": "Camera 1", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"},
@@ -16,16 +15,8 @@
     {"name": "Camera 3", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"}
  
   ] 
-},
-{"id":2,
-   "name":"farm 2",
-  "camera": [
-    {"name": "Camera 4", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"},
-    {"name": "Camera 5", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
-    {"name": "Camera 6", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"}
- 
-  ] 
 }
-  ]
+
+  
 
 }
