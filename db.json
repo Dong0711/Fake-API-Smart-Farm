@@ -10,9 +10,9 @@
     {"id":1,
    "name":"farm 1",
   "camera": [
-    {"name": "Camera 1", "link": "https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd"},
-    {"name": "Camera 2", "link": "https://d24rwxnt7vw9qb.cloudfront.net/v1/dash/e6d234965645b411ad572802b6c9d5a10799c9c1/All_Reference_Streams/4577dca5f8a44756875ab5cc913cd1f1/index.mpd"},
-    {"name": "Camera 3", "link": "https://d24rwxnt7vw9qb.cloudfront.net/v1/dash/e6d234965645b411ad572802b6c9d5a10799c9c1/All_Reference_Streams/ee565ea510cb4b4d8df5f48918c3d6dc/index.mpd"}
+    {"name": "Camera 1", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
+    {"name": "Camera 2", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
+    {"name": "Camera 3", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"}
  
   ] 
 }
