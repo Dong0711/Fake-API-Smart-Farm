@@ -6,17 +6,181 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
-  "farm":
-    {"id":1,
+  "farm":   
+    [
+   {
+    "id":1,
    "name":"farm 1",
-  "camera": [
-    {"name": "Camera 1", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
-    {"name": "Camera 2", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
-    {"name": "Camera 3", "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"}
+   "local":"Lạc Dương",
+   "acreage":200,
+   "temperature":22,
+   "humidity":21,
+   "rain_salary":200,
+   "animal_lodging":[
+      {
+        "lodgingID":1,"lodging_name":"Chuồng 1",
+        "lodgin_acreage":50,
+        "animal_name":"Lợn",
+        "number_of_animals":20,
+        "list_cameras":[
+              {
+                "Camera_ID":1,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":2,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":3,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      },
+      {
+        "lodgingID":2,"lodging_name":"Chuồng 2",
+        "lodgin_acreage":50,
+        "animal_name":"Gà",
+        "number_of_animals":100,
+        "list_cameras":[
+              {
+                "Camera_ID":4,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":5,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":6 ,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      },
+      {
+        "lodgingID":3,"lodging_name":"Chuồng 2",
+        "lodgin_acreage":50,
+        "animal_name":"Bò",
+        "number_of_animals":5,
+        "list_cameras":[
+              {
+                "Camera_ID":7,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":8,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":9 ,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      }
+   ]   
+   },
+   {
+    "id":2,
+   "name":"farm 2",
+   "local":"Đà Lạt",
+   "acreage":20,
+   "temperature":25,
+   "humidity":25,
+   "rain_salary":150,
+   "animal_lodging":[
+      {
+        "lodgingID":1,"lodging_name":"Chuồng 1",
+        "lodgin_acreage":50,
+        "animal_name":"Lợn",
+        "number_of_animals":20,
+        "list_cameras":[
+              {
+                "Camera_ID":10,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":11,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":12,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      },
+      {
+        "lodgingID":2,"lodging_name":"Chuồng 2",
+        "lodgin_acreage":50,
+        "animal_name":"Gà",
+        "number_of_animals":100,
+        "list_cameras":[
+              {
+                "Camera_ID":13,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":14,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":15,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      },
+      {
+        "lodgingID":3,"lodging_name":"Chuồng 2",
+        "lodgin_acreage":50,
+        "animal_name":"Bò",
+        "number_of_animals":1,
+        "list_cameras":[
+              {
+                "Camera_ID":16,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":17,
+                "camera_nanme":"Camera 2",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              },
+              {
+                "Camera_ID":18 ,
+                "camera_nanme":"Camera 1",
+                "camera_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              }
+        ]
+
+      }
+   ]   
+   }
+  
+  ]
+
+
  
-  ] 
 }
 
   
 
-}
+
