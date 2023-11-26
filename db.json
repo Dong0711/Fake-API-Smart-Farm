@@ -19,10 +19,15 @@
    "image":"https://plus.unsplash.com/premium_photo-1676621828743-4e498815cbac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
    "animal_lodging":[
       {
-        "lodgingID":1,"lodging_name":"Chuồng 1",
+        "lodgingID":1,
+        "lodging_name":"Chuồng 1",
         "lodgin_acreage":50,
         "animal_name":"Lợn",
         "number_of_animals":20,
+        "livstock_origin":"Trung Quốc",
+        "farming_day":"20/1/2020",
+        "expected_day":"1/1/2024",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":1,
@@ -47,6 +52,10 @@
         "lodgin_acreage":50,
         "animal_name":"Gà",
         "number_of_animals":100,
+        "livstock_origin":"Trung Quốc",
+        "farming_day":"15/1/2020",
+        "expected_day":"8/3/2023",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":4,
@@ -71,6 +80,10 @@
         "lodgin_acreage":50,
         "animal_name":"Bò",
         "number_of_animals":5,
+        "livstock_origin":"Trung Quốc",
+        "farming_day":"20/5/2023",
+        "expected_day":"1/10/2024",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":7,
@@ -107,6 +120,9 @@
         "lodgin_acreage":50,
         "animal_name":"Lợn",
         "number_of_animals":20,
+        "farming_day":"20/5/2023",
+        "expected_day":"1/10/2024",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":10,
@@ -131,6 +147,9 @@
         "lodgin_acreage":50,
         "animal_name":"Gà",
         "number_of_animals":100,
+        "farming_day":"20/5/2023",
+        "expected_day":"1/10/2024",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":13,
@@ -155,6 +174,9 @@
         "lodgin_acreage":50,
         "animal_name":"Bò",
         "number_of_animals":1,
+        "farming_day":"20/5/2023",
+        "expected_day":"1/10/2024",
+        "number_of_diseases":"10",
         "list_cameras":[
               {
                 "Camera_ID":16,
