@@ -342,6 +342,7 @@
     20]
   },
   "animla_lodging_data":{
+    "farm_name":"TRANG TRẠI 1",
     "animals_disease_data":["1000 con", "100 con", "3 con"],
     "rain_salary_data":["15%","22%","27%"],
     "humidity_data":["17%","23%","25%"],
