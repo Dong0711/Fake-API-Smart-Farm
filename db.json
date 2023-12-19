@@ -343,15 +343,46 @@
   },
   "animla_lodging_data":{
     "animals_disease_data":["1000 con", "100 con", "3 con"],
-    "rain_salary_data"=["15%","22%","27%"],
-    "humidity_data"=["17%","23%","25%",],
-    "temp_data"=["11℃","23℃","31℃",]
+    "rain_salary_data":["15%","22%","27%"],
+    "humidity_data":["17%","23%","25%"],
+    "temp_data":["11℃","23℃","31℃"]
     
-  }
-
+  },
+"notification":[
+  {"notification_ID":1,
+  "notification_type":0,
+  "notification_time":"10:10",
+  "notification_date":"07/11/2023",
+  "notification_title":"Cảnh báo",
+  "notification_sub":"Phát hiện 2 người ở chuồng heo 1 tại nông trại 1",
+  "notification_image":"https://file.hstatic.net/1000177816/file/trom_vao_nha_d06485393bc44697ba7787907df5a3ee_1024x1024.jpg"
+},
+{"notification_ID":2,
+  "notification_type":2,
+"notification_time":"05:10",
+"notification_date":"21/07/2023",
+"notification_title":"Thông báo",
+"notification_sub":"Xuất hiện vật thể lạ trong chuồng heo 3 tại nông trại 2",
+"notification_image":""
+},  {"notification_ID":3,
+  "notification_type":0,
+  "notification_time":"21:57",
+"notification_date":"21/12/2023",
+"notification_title":"Cảnh báo",
+"notification_sub":"Phát hiện 1 người ở chuồng gà 1 tại nông trại 3",
+"notification_image":"https://abaro.vn/wp-content/uploads/2023/05/nhung-loi-ich-khi-lap-dat-thiet-bi-bao-dong-chong-trom-1.jpg"
+},
+{"notification_ID":4,
+  "notification_type":1,
+  "notification_time":"13:18",
+"notification_date":"10/11/2023",
+"notification_title":"Thông báo",
+"notification_sub":"Nhiệt độ quá cao chuồng bò 2 tại nông trại 2",
+"notification_image":""
+}
+]
  
 }
 
-  
 
 
