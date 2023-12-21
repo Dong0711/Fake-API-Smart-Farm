@@ -476,7 +476,8 @@
       "notification_data": {}
     }
   ],
-  "video_rewind": [
+  "video_rewind":{ "video_rewind_link":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+  "video_rewind_properties":[
     {
       "video_rewind_ID": 1,
       "video_rewind_title": "Xuất hiện vật thể lạ",
@@ -517,5 +518,5 @@
       "video_rewind_time": "18:18",
       "video_rewind_date": "5/12/2023"
     }
-  ]
+  ]}
 } 
