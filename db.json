@@ -45,17 +45,17 @@
             {
               "Camera_ID": 1,
               "camera_nanme": "Camera 1",
-              "camera_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              "camera_link": "http://34.83.200.37:8001/video_feed"
             },
             {
               "Camera_ID": 2,
               "camera_nanme": "Camera 2",
-              "camera_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              "camera_link": "http://34.83.200.37:8001/video_feed"
             },
             {
               "Camera_ID": 3,
               "camera_nanme": "Camera 1",
-              "camera_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+              "camera_link": "http://34.83.200.37:8001/video_feed"
             }
           ]
         },
