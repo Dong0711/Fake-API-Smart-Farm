@@ -8,16 +8,7 @@
     "birthday": "10/1/1990",
     "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNh2kOz0Eya2FqnnalLUb2fA67f6aKu2sM4yBGE49RgpSFwUSw"
   },
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
+ 
   "farm": [
     {
       "id": 1,
